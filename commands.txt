@@ -1,0 +1,162 @@
+  184  helm -v
+  185  helm version
+  186  cd /
+  187  ll
+  188  ls /
+  189  cd /
+  190  ll
+  191  cd ~
+  192  ll
+  193  cd D
+  194  cd D:\
+  195  D:ll
+  196  D:
+  197  D:/
+  198  cd mnt/d
+  199  $ ssh-keygen -t ed25519 -C "mukherjee.subhojit@live.in"
+  200  ssh-keygen -t ed25519 -C "mukherjee.subhojit@live.in"
+  201  ssh-keygen -t ed25519 -C "mukherjee.subhojit@live.in"
+  202  ls -a
+  203  pwd
+  204  d:
+  205  D:
+  206  cd D:/
+  207  pwd
+  208  cd Projects/
+  209  ll
+  210  cd ReactJs/
+  211  ll
+  212  cd learning/
+  213  ll
+  214  cd ../
+  215  git clone git@github.com:isubho/tictactoe.git
+  216  eval "$(ssh-agent -s)"
+  217  ssh-add ~/.ssh/linux
+  218  git clone git@github.com:isubho/tictactoe.git
+  219  ssh -T git@github.com
+  220  git clone https://github.com/isubho/tictactoe.git
+  221  eval "$(ssh-agent -s)"
+  222  ssh-add ~/.ssh/id_ed25519
+  223  git clone git@github.com:isubho/tictactoe.git
+  224  git clone git@github.com:isubho/tictactoe.git
+  225  git clone git@github.com:isubho/tictactoe.git
+  226  git clone git@github.com:isubho/tictactoe.git
+  227  ssh-keygen -t ed25519 -C "your_email@example.com"
+  228  ssh-keygen -t rsa -C "your_email@example.com"
+  229  eval "$(ssh-agent -s)"
+  230  ssh-add ~/.ssh/id_rsa
+  231  git clone git@github.com:isubho/tictactoe.git
+  232  git clone git@github.com:isubho/tictactoe.git
+  233  cd tictactoe/
+  234  ll
+  235  git pull
+  236  vi 
+  237  ll
+  238  vi README.md 
+  239  git status
+  240  git commit -a -m "document"
+  241  git status
+  242  git fetch
+  243  git status
+  244  git logs -4
+  245  git log -4
+  246  git status
+  247  git pull
+  248  git log -3
+  249  git merge --abort
+  250  git pull
+  251  git status
+  252  git merge --abort
+  253  git remote
+  254  git pull -rebase origin master
+  255  git pull --rebase origin master
+  256  git log -4
+  257  git remote -v
+  258  git branch -r
+  259  git pull --rebase
+  260  git log -1
+  261  git checkout -b document
+  262  git branch --rebase
+  263  git pull --rebase
+  264  git log -2
+  265  git status
+  266  git status
+  267  git stash 
+  268  git status
+  269  git fetch
+  270  #git pull --rebase origin master
+  271  git log -3
+  272  git pull --rebase origin master
+  273  git log -4
+  274  it stash list
+  275  git stash list
+  276  git stash show
+  277  git stash show stash@{0}
+  278  git stash apply
+  279  git status
+  280  git stash
+  281  git stash list
+  282  git stash delete stash@{1}
+  283  git stash drop stash@{1}
+  284  git stash list
+  285  git stash pop
+  286  git status
+  287  git stash list
+  288  git stash
+  289  git stash list
+  290  git stash clear
+  291  git statsu
+  292  git status
+  293  git stash 
+  294  git status
+  295  git status
+  296  git add package.json 
+  297  git status
+  298  git commit -m "package.json"
+  299  git push -u origin HEAD:document-1
+  300  git checkout master
+  301  git status
+  302  git pull --rebase origin master
+  303  git status
+  304  git log -4
+  305  git status
+  306  git reset --soft HEAD~1
+  307  git status
+  308  git commit -m "test"
+  309  git status
+  310  git reset --hard HEAD~1
+  311  git status
+  312  git branch
+  313  git branch -r
+  314  git checkout -b document-2
+  315  git status
+  316  git stash pop
+  317  git status
+  318  git stash list
+  319  cd ..
+  320  ll
+  321  mkdri new-git
+  322  mkdir new-git
+  323  git init
+  324  git status
+  325  ll -a
+  326  rm -rf .git/
+  327  cd new-git/
+  328  git init
+  329  touch a.txt
+  330  git checkout -b dummy
+  331  git status
+  332  git branch
+  333  git add a.txt 
+  334  git status
+  335  git reset a.txt
+  336  git status
+  337  cd ../tictactoe/
+  338  vi README.md 
+  339  git status
+  340  git add README.md 
+  341  git reset README.md
+  342  git status
+  343  git  checkout -- .
+  344  git status
+  345  history > commands.txt
